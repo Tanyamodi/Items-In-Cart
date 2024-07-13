@@ -34,7 +34,7 @@ const Cards = () => {
                   <div className="button_div d-flex justify-content-center">
                     <Button
                       onClick={() => send(element)}
-                      variant="primary" className="col-lg-12">Add To Card</Button>
+                      variant="primary" className="col-lg-12">Add To Cart</Button>
                   </div>
                 </Card.Body>
               </Card>
